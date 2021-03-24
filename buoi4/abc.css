@@ -1,0 +1,26 @@
+@font-face{
+    font-family: mytextfont;
+    src: url('./roboto/Roboto-Italic.ttf');
+}
+body {
+    border: 3px dotted blueviolet;
+    margin: 10px;
+    text-align: center;
+}
+section {
+    border: 2px solid blueviolet;
+    width: 500px;
+    margin: 20px;
+    padding: 10px;
+}
+h1, p {
+    border: 1px dashed blueviolet;
+}
+h1 {
+    margin: .5em 0 .25em;
+    padding-left: 15px;
+}
+p {
+    margin: 0;
+    padding-left: 15px;
+}

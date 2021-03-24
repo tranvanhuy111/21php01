@@ -1,0 +1,32 @@
+@font-face{
+    font-family: mytextfont;
+    src: url('./roboto/Roboto-ThinItalic.ttf');
+}
+.xinchao {
+    font-family: mytextfont;
+    font-size: 200px;
+    color: #dc143c;
+    /* chiều cao đối tượng */
+    height: 150px;
+    /* border của đói tượng */
+    border: 2px;
+    /* cân giữa đối tượng theo chiều ngang */
+    text-align: center;
+    /* cân giữa đối tượng theo chiều dọc */
+    line-height: 200px;
+}
+.demo1{
+    text-transform: lowercase;
+}
+body{
+    background-image:url('./1.jpg');
+    b
+}
+.demo2{
+    color: crimson;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding: 30px 10px 15px 40px;
+    border: crimson 5px solid;
+    background-color: blue;
+}
