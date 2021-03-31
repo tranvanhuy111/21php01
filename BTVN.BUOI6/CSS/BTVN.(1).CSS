@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: rgb(253, 251, 251);
+}
+nav ul li{
+    padding: 10px;
+    background-color: blue;
+    list-style-type: none;
+    margin: 2px;
+    float: left;
+    font-size: 20px;
+}
+a:hover{
+    color: red;
+}
