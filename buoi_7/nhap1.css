@@ -1,0 +1,13 @@
+table {
+    width: 800px;
+    border-collapse: collapse;
+}
+table, tr, th, td{
+    border: 2px solid red;
+}
+thead, tfoot{
+    background-color: seagreen;
+}
+td:nth-child(2) {
+    color: blue);
+}

@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    border: 0;
+    color: black;
+}
+h2{
+    margin-left: 20px;
+}
+li{
+    border: 3px solid blue;
+    margin: 3px;
+    padding: 10px;
+    padding-left: 25px;
+    
+}
+li:hover{
+    background-color: rosybrown;
+}
+.yes :hover{
+    color: yellow;
+}
+div{
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    width: 80%;
+    padding-bottom: 30px;
+    box-shadow: 0px 15px 15px 0px rgba(0,0,0,.6);
+}
+ul{
+    margin: 20px;
+    margin-bottom: 40px;
+    list-style-type: none;
+}

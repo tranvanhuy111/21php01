@@ -1,0 +1,27 @@
+h3{
+    margin-left: 30px;
+    font-size: 30px;
+}
+form{
+    border: 2px solid black;
+    width: 700px;
+    background-image: linear-gradient(rgb(51, 201, 206),rgba(238, 13, 126, 0.5));
+}
+p{
+    margin-left: 20px;
+}
+input{
+    margin-left: 150px;
+    width: 250px;
+}
+li{
+    list-style-type: none;
+}
+#hang10{
+    width: 100px;
+    background-color: gray;
+}
+#hang1{
+    width: 350px;
+    height: 200px;
+}

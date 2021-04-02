@@ -1,0 +1,27 @@
+#so1{
+    width: 400px;
+    float: left;
+}
+.hang1{
+    border: 2px solid black;
+    height: 300px;
+}
+p{
+    margin-left: 45px;
+}
+h1{
+    margin-left: 35px;
+}
+
+#so2{
+    float: left;
+    margin-left: 100px;
+    width: 500px;
+}
+.hang2{
+    border: 2px solid black;
+    height: 400px;
+}
+#so3{
+    width: 300px;
+}

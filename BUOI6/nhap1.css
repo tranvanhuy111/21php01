@@ -1,0 +1,23 @@
+/* li{
+    list-style-type: circle;
+}
+ul li{
+    list-style-type: georgian;
+}
+ol li{
+    
+} */
+
+
+a:link {
+    color:firebrick;
+}
+a:visited {
+    color: forestgreen;
+}
+a:hover {
+    color: gold;
+}
+#phan1, #phan2, #phan3{
+    height: 800px;
+}

@@ -1,0 +1,47 @@
+table{
+    margin: 30px;
+    border-collapse: collapse;
+    text-align: center;
+}
+.so3{
+    color: red;
+}
+.so4{
+    background-color: yellow;
+}
+.so5, .so6{
+    color: blue;
+}
+td:nth-child(1){
+    color: black;
+}
+.so6 td:nth-child(2){
+    color: black;
+}
+.so5 td:nth-child(2){
+    color: black;
+}
+.so1 th:nth-child(8){
+    background-color: yellow;
+}
+.so2 th:nth-child(9){
+    background-color: yellow;
+}
+th:nth-child(10){
+    background-color: yellow;
+}
+th:nth-child(11){
+    background-color: yellow;
+}
+th:nth-child(12){
+    background-color: yellow;
+}
+.so2{
+    height: 50px;
+} 
+h1{
+    margin-left: 150px
+}
+p{
+    margin-left: 350px;
+}
