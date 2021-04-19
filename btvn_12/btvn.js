@@ -25,9 +25,9 @@ for (var i=0; i<student.length; i++){
 
 
 document.write('<h3>Danh sach hoc vien sau khi them 2 thanh vien</h3>');
-var a= ['Bui D', '34', 'buib@yahoo.com', 'ha noi'];
+var a= ['bui D', '34', 'buib@yahoo.com', 'ha noi'];
 student.push(a)
-var a= ['Bui E', '31', 'buic@gmail.com', 'hai phong'];
+var a= ['bui E', '31', 'buic@gmail.com', 'hai phong'];
 student.push(a)
 for (var i=0; i<student.length; i++){
     document.write(i+1+ '. ')
@@ -61,7 +61,7 @@ for (var i=0; i<student.length; i++){
     }
 }
 
-document.write('<h3>Danh sách học viên sau khi đổi quê quán đà nẵng thành Hải phòng</h3>');
+document.write('<h3>Danh sách học viên sau khi đổi que quan da nang thành tên Hai phong</h3>');
 for (var i=0; i<student.length; i++){
     var quequan = student[i][3].slice(student[i][3].queIndexOf(' ')+1)
     if (quequan == 'da nang'){
@@ -71,7 +71,7 @@ for (var i=0; i<student.length; i++){
 }
 
 for (var i=0; i<student.length; i++){
-    document.write(i+1+ ' . ')
+    document.write(i+1+ '. ')
     for (var j = 0; j<student[i].length;j++){
         if (j == student[i].length-1){
             document.write(student[i][j]+ '<br/>')

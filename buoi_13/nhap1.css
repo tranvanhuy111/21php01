@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    color: black;
+}
+.tong{
+    border: 3px solid black;
+    width: 400px;
+    float: left;
+    height: 300px;
+}
+.hang2, .hang1{
+    float: left;
+    margin-left: 30px;
+}
+#so1{
+    width: 140px;
+    height: 40px;
+}
+h2{
+    margin-left: 75px;
+}
+input{
+    background-color: gray;
+}
+input:hover{
+    background-color: gold;
+}
+p{
+    color: blue;
+}
+samp{
+    color: red;
+}
